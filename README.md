@@ -1,6 +1,10 @@
 # resources
 a collection of websites and resources I have found useful at some point.
 
+# Component Libraries (emoji coming soon)
+### React
+[Mantine](https://mantine.dev/): My current favorite component library with excellent package integration and actively maintained.  
+
 # ui design 🐳
 ### gradients
 [colorspace](https://mycolor.space/): two and three color gradient generator, plus palettes.  
