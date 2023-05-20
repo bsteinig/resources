@@ -14,6 +14,7 @@ a collection of websites and resources I have found useful at some point.
 [hero patterns](https://heropatterns.com/): generator for svg patterns for website backgrounds.  
 [shape divider](https://www.shapedivider.app/): generator for svg dividers between sections.
 [CSS Mesher](https://csshero.org/mesher/): generator for css liquid gradients.
+[Box Shadows](https://box-shadow.dev/): Nice generator for layering multiple box shadows.
 
 # Presentation Tools 👨‍🏫
 ### Word Count
