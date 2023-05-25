@@ -15,6 +15,9 @@ a collection of websites and resources I have found useful at some point.
 [shape divider](https://www.shapedivider.app/): generator for svg dividers between sections.  
 [CSS Mesher](https://csshero.org/mesher/): generator for css liquid gradients.  
 [Box Shadows](https://box-shadow.dev/): Nice generator for layering multiple box shadows.  
+  
+### SVG tools
+[Clip-path converter](https://yoksel.github.io/relative-clip-path/): Tool to convert svg between userSpaceOnUse and objectBoundingBox, and removing offset.  
 
 # Presentation Tools 👨‍🏫
 ### Word Count
