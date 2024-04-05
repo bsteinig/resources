@@ -22,3 +22,8 @@ a collection of websites and resources I have found useful at some point.
 # Presentation Tools 👨‍🏫
 ### Word Count
 [wordcount](https://wordcounter.net/): Word counter, with speaking & reading time, plus a lot of fun options like reading level.  
+
+# Playgrounds
+
+### SQL
+[SQL Playground](https://sql-playground.wizardzines.com/_): Easily test sql queries with dummy data
